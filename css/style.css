@@ -1,0 +1,114 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+ul {
+    margin: 0;
+}
+
+ul>li {
+    display: inline;
+}
+
+.shopping-basket {
+    background: #85D1E0;
+}
+
+.phone-btn-text {
+    color: #fff;
+    background: #58BACF;
+    font-weight: 600;
+    font-size: 0.6em;
+}
+
+.shoping-basket-btn-text {
+    color: #fff;
+    background: #85D1E0;
+    font-weight: 600;
+    font-size: 0.6em;
+
+}
+
+.phone-btn {
+    background: #58BACF;
+    border-radius: 0;
+    box-shadow: none;
+    padding: 0 10%;
+}
+
+.slider-foto {
+    width: 100%;
+    height: auto;
+}
+
+.text-color-blue {
+    color: #85D1E0;
+    margin: 4% 0;
+    font-size: 1.4em;
+}
+
+.color-blue {
+    background: #58BACF;
+}
+
+.text-min {
+    font-size: 1em;
+    margin-bottom: 6%;
+}
+
+.text-max {
+    font-size: 2em;
+    font-weight: 500;
+}
+
+.text-max2 {
+    font-size: 1.6em;
+    font-weight: 400;
+}
+
+span {
+    background: #000;
+    color: aqua;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.5em;
+}
+
+.card-main {
+    box-shadow: none;
+}
+
+.card .card-action {
+    border-top: none;
+    padding: 0;
+}
+
+.card .card-content {
+    padding: 0;
+}
+
+.card .card-content .card-price {
+    color: #85D1E0;
+    font-size: 1.6em;
+    font-weight: 600;
+}
+
+.card-row {
+    border-bottom: 1px dotted #85D1E0;
+    padding: 4% 0;
+}
+
+.card-content-min {
+    background: #fff;
+    color: #9F9F9F;
+    font-size: 0.8em;
+}
+
+.card-content p {
+    padding: 6px;
+}
+
+.card-content-title {
+    background: #fff;
+    color: #5298DF;
+    font-size: 1.1em;
+}

@@ -19,6 +19,7 @@ ul>li {
     background: #58BACF;
     font-weight: 600;
     font-size: 0.6em;
+    vertical-align: bottom;
 }
 
 .shoping-basket-btn-text {
@@ -26,7 +27,14 @@ ul>li {
     background: #85D1E0;
     font-weight: 600;
     font-size: 0.6em;
+    vertical-align: bottom;
+}
 
+.shoping-btn-text {
+    color: #fff;
+    background: #58BACF;
+    font-size: 1em;
+    vertical-align: top;
 }
 
 .phone-btn {
